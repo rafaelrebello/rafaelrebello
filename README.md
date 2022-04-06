@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rafaelrebello
-- 👀 I’m interested in learning programming
-- 📫 How to reach me rrebellov@gmail.com
+- 👋 Hello, I am Rafael Rebello Vitorino @rafaelrebello
+- 👀 I am interested in learning programming and working at the field
+- 📫 You can reach me at rrebellov@gmail.com
  
  Remember me to update this later.
 
